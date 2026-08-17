@@ -1,60 +1,60 @@
 ## Email 1
-**Subject:** Your Quarter-Acre Starter Layout is inside
+**Subject:** The backyard mistake that wastes the most space
 
 Hi there,
 
-Here's the layout you requested — a simple map for turning even a small backyard into a productive growing space.
+Thanks for grabbing the vegetable guide. Before you plant anything else, here's the biggest space-waster I see in small backyard gardens: single-use rows.
 
-Print it out, walk your yard, and pencil in where each zone could go. You don't need to build it all at once. Just start with one bed.
+Most people plant in long, single rows the way their grandparents did on a farm. On a quarter acre, that layout wastes half your growing space on pathways.
 
-Over the next few days I'll share the small mistakes that quietly sabotage most backyard gardens, and how to avoid them.
+The fix is dense, layered beds — tall plants next to climbers next to low ground cover, all sharing the same footprint. It's one of the core shifts covered in The Self-Sufficient Backyard, and it alone can roughly double what a small plot produces.
 
-Talk soon.
+More on that soon.
+
+— Talk soon
 
 ## Email 2
-**Subject:** The #1 reason small gardens underperform
+**Subject:** Can a quarter acre actually feed a family?
 
-Most backyard gardens fail to produce much not because of bad soil or bad luck, but because of overcrowding and poor planning from day one.
+Short answer: closer than you'd think, if it's set up right.
 
-Plants get placed too close together, competing for light and nutrients, and yields drop across the board.
+A well-planned quarter-acre backyard can realistically supply a meaningful share of a family's vegetables, herbs, and eggs for much of the year — not everything, but enough to noticeably cut the grocery bill.
 
-The fix is simple: plan spacing and succession before you plant, not after. The Self-Sufficient Backyard walks through exact spacing and layout templates for small lots, so you're not guessing.
+The key is combining three things most backyard gardeners never plan together: dense vegetable beds, a couple of small livestock options like chickens or rabbits, and a simple preservation routine so the harvest doesn't go to waste.
 
-[Link to product]
+The Self-Sufficient Backyard walks through exactly how to combine all three on a small lot: https://independentbackyard.com/my-book/#aff=John1122
 
 ## Email 3
-**Subject:** 7 mistakes that quietly wreck small backyard gardens
+**Subject:** 7 mistakes that quietly kill small backyard gardens
 
-A few of the most common ones I see:
+Most backyard gardens don't fail because of bad luck — they fail because of a handful of repeated mistakes:
 
-1. Planting everything at once instead of succession planting
-2. Ignoring soil health in favor of just adding more plants
-3. Skipping vertical space entirely
-4. No water plan for hot stretches
-5. Choosing crops that don't fit the space or climate
-6. No harvest or storage plan, so food goes to waste
-7. Trying to do everything in one season
+1. Planting too much of one thing at once
+2. No succession planting, so beds sit empty half the season
+3. Ignoring soil health until yields drop
+4. Skipping vertical space entirely
+5. No plan for preserving the harvest
+6. Overcrowding without air flow, inviting disease
+7. Treating it as a summer hobby instead of a year-round system
 
-Each one is fixable with a bit of planning — which is exactly what's mapped out step-by-step inside The Self-Sufficient Backyard.
-
-[Link to product]
+Every one of these is fixable with a plan. That's the whole premise behind The Self-Sufficient Backyard — a system, not just plant advice: https://independentbackyard.com/my-book/#aff=John1122
 
 ## Email 4
-**Subject:** What 'self-sufficient' actually looks like on a small lot
+**Subject:** Small livestock on a small lot (yes, it's possible)
 
-It's not about growing 100% of your own food. It's about steadily shrinking your grocery bill and building resilience — a garden that feeds you for months, eggs from a few hens, herbs and preserves stocked in the pantry.
+You don't need acreage for animal protein. Rabbits, quail, and a small backyard chicken coop all fit within typical suburban lot sizes and many local ordinances.
 
-The Self-Sufficient Backyard shows the realistic version of this: what's achievable on a quarter acre, and the order to build it in so it doesn't overwhelm you.
+Rabbits in particular are one of the most space-efficient protein sources you can raise — quiet, compact, and productive.
 
-[Link to product]
+The Self-Sufficient Backyard covers which animals make sense for small lots, rough space and care requirements, and how to fold them into the same system as your growing beds: https://independentbackyard.com/my-book/#aff=John1122
 
 ## Email 5
-**Subject:** Last call: the full backyard blueprint
+**Subject:** Last call: the full backyard system
 
-This is the last email in this short series.
+This is the last email in this short series, so I'll keep it simple.
 
-If you've been meaning to actually turn your backyard into a food-producing space instead of just thinking about it, The Self-Sufficient Backyard is the full system — layouts, planting calendars, small livestock guides, and preservation basics, all in one place.
+If you want the complete system — vegetable layouts sized for small lots, small livestock options, and food preservation methods that actually extend what you grow — The Self-Sufficient Backyard puts it all in one place instead of scattered across a hundred blog posts.
 
-[Link to product]
+Grab it here: https://independentbackyard.com/my-book/#aff=John1122
 
-Thanks for reading — happy growing.
+Either way, thanks for following along — hope the vegetable guide is already earning its keep in your garden.
