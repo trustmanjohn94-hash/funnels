@@ -1,24 +1,24 @@
 ## Email 1
-**Subject:** The #1 reason small-space gardens die (it's not what you think)
+**Subject:** Why your last gardening attempt wasn't your fault
 
-Most people assume they killed their plants from neglect. Usually it's the opposite: wrong plant choice for the light they actually have. Today I want to walk through how to match plants to your real conditions instead of guessing.
+Most small-space gardening guides are written for people with backyards and years of experience. If your herbs died on a windowsill, the method failed you, not the other way around. There's a simpler, apartment-tested approach built around 5 minutes a day — and it's designed for exactly the situation you're in.
 
 ## Email 2
-**Subject:** 5 minutes a day, that's really it?
+**Subject:** The 84 sq ft balcony that changed everything
 
-Once a small-space garden is set up, daily maintenance really can shrink to a few minutes: check moisture, snip what's ready, done. The heavy lifting happens once during setup, not every day after.
+A former grocery produce manager who couldn't keep a houseplant alive built a system in her own 84 sq ft balcony that now produces meaningful amounts of fresh food with just 5 minutes of daily maintenance. If she could turn it around, the odds are good you can too.
 
 ## Email 3
-**Subject:** The crops that actually save you money
+**Subject:** The real reason 78% of beginners quit
 
-Not every plant is worth growing yourself. Herbs, leafy greens, and cherry tomatoes tend to save the most compared to store prices, while space-hungry crops like corn rarely pencil out in a small footprint.
+It's not lack of a green thumb. It's guides that assume space, time, and experience most beginners don't have. A step-by-step, photo-guided system removes the guesswork so you know exactly what to do every single day.
 
 ## Email 4
-**Subject:** What to do when something looks wrong
+**Subject:** What 5 minutes a day actually gets you
 
-Yellowing leaves, leggy stems, pests, every small-space grower runs into this. Having a quick reference for common problems saves the panic-Googling and the urge to give up.
+Setup takes a weekend. After that, daily maintenance really is about 5 minutes. Microgreens can be ready in as little as 7-10 days, with leafy greens and herbs following a few weeks later — meaning you're eating what you grew far sooner than most people expect.
 
 ## Email 5
-**Subject:** Your next 21 days
+**Subject:** Last call: is small-space growing worth 5 minutes a day?
 
-If you're ready to go from browsing gardening tips to actually harvesting something, The 5-Minute Garden lays out the full system so you're not piecing it together yourself. Here's the link if you want to dig in.
+If rising grocery prices and uncertainty about where your food comes from have been on your mind, this is the moment to try a system built specifically for small spaces and busy schedules. Give it a real shot — the daily commitment is smaller than you think.
