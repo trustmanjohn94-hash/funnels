@@ -1,63 +1,46 @@
 ## Email 1
 **Subject:** Your free checklist: 5 blind spots looters look for
 
-Hi,
+Hi there,
 
-Thanks for grabbing the checklist. Inside, you'll find the 5 vulnerabilities that looters and burglars scout for before they ever approach a home — and quick fixes for each.
+Here's the checklist you requested — 5 Overlooked Vulnerabilities Looters Look For (And How to Fix Them in 1 Hour).
 
-Most of these take under 15 minutes to address, and none of them require a monthly subscription or electrician.
+Most homeowners never think about their property from a looter's point of view. This checklist changes that. Walk through it this weekend and you'll spot gaps you didn't know existed.
 
-Tomorrow I'll walk you through why the alarm system most people already own becomes useless in a blackout — and what former CIA officer Jason Hanson recommends instead.
+Tomorrow I'll show you why the security systems most people already own fail exactly when they're needed most.
 
-Talk soon.
+Talk soon
 
 ## Email 2
-**Subject:** Why your alarm goes dark exactly when you need it
+**Subject:** Why your alarm system goes dark when you need it most
 
-Hi again,
+Yesterday you got your checklist. Today, let's talk about a hard truth: most home security depends entirely on the power grid and WiFi.
 
-Here's an uncomfortable truth: most home alarm systems depend on two things — electricity and an internet connection. Storms, grid failures, and civil unrest tend to knock out both at once.
+During a blackout, a storm, or civil unrest — the exact moments risk spikes — those systems simply stop working.
 
-That's precisely when break-in attempts spike, and precisely when your $3,000 smart security system goes silent.
-
-The Anti-Looter Kit was designed around this exact problem — a layered, battery-independent system that keeps working when the grid doesn't.
-
-Tomorrow, I'll break down what's actually inside the kit.
+That's the gap a former CIA officer built The Anti-Looter Kit to close: a layered, battery-independent system that keeps working when the grid doesn't.
 
 ## Email 3
-**Subject:** Inside the kit: what's actually in the box
+**Subject:** The deter-detect-delay framework explained
 
-Hi,
+Security professionals think in three layers: deter, detect, delay.
 
-Here's what the Anti-Looter Kit includes:
+Deter means making your home look like a hard target before anyone gets close. Detect means knowing the moment someone crosses your perimeter. Delay means slowing them down long enough for you to respond.
 
-- Perimeter tripwire alarm for early warning
-- Motion-activated sensors for entry points
-- An alarmed door jammer that works on any door — home, hotel, or Airbnb
-- A solar-powered floodlight, no outlet required
-
-Each piece is designed to be installed without tools or an electrician, and none of it needs WiFi or a subscription.
-
-Next up: the psychology of why looters skip certain homes entirely.
+The Anti-Looter Kit stacks all three into one system — tripwire alarm, motion sensors, a door jammer alarm, and a solar floodlight.
 
 ## Email 4
-**Subject:** The one thing that makes looters move on
+**Subject:** Real scenarios this kit was built for
 
-Hi,
+Blackout after a storm. A knock at 2am from someone who shouldn't be there. Unrest a few streets over.
 
-Looters and opportunistic burglars are overwhelmingly driven by one thing: how much resistance and visibility they expect.
+None of these are things you can predict — but you can prepare for all of them with one setup that needs no WiFi, no monthly fee, and no electrician.
 
-A home that visibly signals layered protection — lighting, sensors, deterrents — gets skipped in favor of an easier target next door. That's the whole strategy behind the Anti-Looter Kit: making your home not worth the risk.
-
-If you've been meaning to get your home NOT on that easy-target list, now's a good time to take a look.
+Most people set the whole system up in under an afternoon.
 
 ## Email 5
-**Subject:** Last call: get your home ready before you need it
+**Subject:** Last call: complete your home security layer
 
-Hi,
+Over the last few days you've seen why traditional security fails during real emergencies, and how a layered, grid-independent system closes that gap.
 
-This is my last note in this series. The honest truth about home security is that you don't want to be figuring it out in the middle of an emergency.
-
-The Anti-Looter Kit takes under an hour to set up and works independent of power or WiFi — so it's ready whenever you actually need it, not just on a good day.
-
-If you've been on the fence, this is a good weekend to change that.
+If you've been meaning to finally close the blind spots in your home security, now's a good time to take a look at The Anti-Looter Kit and get set up before you need it, not after.
