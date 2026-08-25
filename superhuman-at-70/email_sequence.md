@@ -1,100 +1,58 @@
 ## Email 1
-**Subject:** Welcome! Your free guide is inside + a quick question
+**Subject:** Why energy quietly fades after 50 (it's not just 'getting older')
 
 Hi there,
 
-Thanks for grabbing your free guide: '7 Daily Habits to Boost Nitric Oxide After 70.'
+If you've noticed your energy isn't quite what it used to be, you're not imagining it — and it's not simply 'getting old.'
 
-I've attached it to this email — take a few minutes to read through it. These simple habits can make a real difference in how you feel each day.
+One overlooked factor is nitric oxide, a molecule your body uses to keep blood vessels relaxed so blood, oxygen, and nutrients can move freely. Production of it naturally declines with age, and that decline can quietly show up as afternoon fatigue, foggy focus, or feeling like you're running on less than you used to.
 
-Quick question: What's the #1 thing you'd love to improve about your energy or mobility right now?
+Over the next few emails, I'll walk you through what's actually going on and what you can do about it — starting with your free 5-Minute Morning Circulation Checklist, attached to this email.
 
-Reply and let me know — I read every message.
-
-To your health,
-[Your Name]
+Talk soon.
 
 ## Email 2
-**Subject:** Why you feel tired after 70 (it's not what you think)
+**Subject:** The circulation habit most people skip (and it takes 5 minutes)
 
-Hi,
+Hi again,
 
-Most people assume feeling tired, stiff, and slow is just 'part of getting older.'
+One of the simplest things you can do for your circulation costs nothing and takes five minutes: gentle morning movement paired with proper hydration.
 
-But science shows something different: the real culprit is a drop in nitric oxide — a molecule your body needs for blood flow, energy, and mobility.
+When you're dehydrated or sedentary first thing in the morning, blood vessels don't get the signal to relax and open up the way they should. A short walk, some stretching, or even a few minutes of deep breathing can help kickstart healthy blood flow for the rest of your day.
 
-By age 70, your nitric oxide levels are roughly half of what they were in your 40s.
-
-That's why so many seniors feel like they're running on empty — even when they're doing everything 'right.'
-
-Tomorrow, I'll share how you can fix this naturally.
-
-Talk soon,
-[Your Name]
+If you haven't grabbed your free Morning Circulation Checklist yet, it walks you through five easy steps — check your inbox for the link.
 
 ## Email 3
-**Subject:** The simple solution thousands of seniors are using
+**Subject:** Why most nitric oxide supplements aren't built for you
 
-Hi,
+Here's something worth knowing: most nitric oxide supplements on the market are formulated for young athletes chasing a gym pump, not for adults simply wanting steady, everyday energy and comfortable circulation.
 
-Yesterday I told you about the nitric oxide decline that happens after 70.
+That's an important distinction. A formula built for intense workouts isn't necessarily built for a 60-year-old who just wants to feel clear-headed and energized through a normal day.
 
-Today, I want to show you the solution.
-
-It's called Superhuman At 70 — a nitric oxide supplement specifically formulated for seniors.
-
-It combines targeted nutrients that:
-- Boost circulation and blood flow
-- Support heart health
-- Improve joint mobility
-- Increase daily energy
-
-Thousands of people over 70 are already using it and feeling the difference.
-
-You can learn more right here: [Link to Superhuman At 70]
-
-Tomorrow, I'll share some real stories from seniors who've tried it.
-
-Best,
-[Your Name]
+That's part of why we've been talking about Superhuman At 70 — a nitric oxide formula from Advanced Bionutritionals designed specifically with adults 50+ in mind, not bodybuilders.
 
 ## Email 4
-**Subject:** 'I feel 15 years younger' — real stories
+**Subject:** What's actually in a formula built for healthy aging
 
-Hi,
+Curious what goes into a nitric oxide formula designed for adults 50 and older? A few key ingredients show up again and again in the research:
 
-I wanted to share a few stories from real people who tried Superhuman At 70:
+- L-Citrulline & L-Arginine — amino acids your body can use toward nitric oxide production
+- Beet root extract — a natural source of dietary nitrates long linked to circulation support
+- Pycnogenol and S7 plant blends — studied for their role in supporting the endothelium, the inner lining of your blood vessels
 
-'Margaret, 74': 'I can walk my dog again without getting winded. My daughter says I seem like a different person.'
+Superhuman At 70 combines several of these into one daily routine. If you've been curious, this is a good time to take a closer look:
 
-'Robert, 78': 'My joints don't ache like they used to. I'm back to working in my garden every morning.'
-
-'Linda, 71': 'I have energy to play with my grandkids. That means everything to me.'
-
-These aren't exceptions — they're the norm when you address the root cause of aging fatigue.
-
-If you're ready to feel younger, check it out here: [Link to Superhuman At 70]
-
-Talk tomorrow,
-[Your Name]
+[See the full ingredient breakdown]
 
 ## Email 5
-**Subject:** Last chance: don't accept 'old age' as your reality
+**Subject:** Last call: take a look at Superhuman At 70
 
-Hi,
+Hi one more time,
 
-I'll keep this short.
+Over the past few emails we've covered why nitric oxide matters as you age, the small daily habits that support circulation, and what makes a formula actually suited for adults 50+ rather than athletes.
 
-You have two choices:
+If you've been meaning to check out Superhuman At 70 from Advanced Bionutritionals, now's a good time — it's built specifically around the goals we've talked about: steady energy, comfortable circulation, and everyday vitality.
 
-1. Accept that feeling tired, stiff, and slow is 'just part of aging'
-2. Take action and give your body the nitric oxide it desperately needs
+[Take a look at Superhuman At 70]
 
-Superhuman At 70 was created specifically for people like us — seniors who refuse to let age define how we feel.
-
-Click here to get started: [Link to Superhuman At 70]
-
-Your best years aren't behind you. They're waiting for you to reclaim them.
-
-To your health,
-[Your Name]
+Wishing you continued energy and health, whatever you decide.
