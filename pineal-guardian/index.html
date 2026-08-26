@@ -1,0 +1,294 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>A Clearer-Mind Routine Starts With the Basics</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --accent: #35c4dd;
+    --accent-dark: #0d5b78;
+    --accent-light: #eaf7fa;
+    --text: #143441;
+    --muted: #6b7c87;
+    --bg-cream: #f1f3f4;
+    --border: #dde3e5;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; padding: 0; color: var(--text);
+    font-family: 'Poppins', -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    line-height: 1.75; background: var(--bg-cream); font-size: 15px; font-weight: 400;
+  }
+  h1, h2, h3, h4 { font-family: 'Poppins', sans-serif; font-weight: 600; }
+  .wrap { max-width: 780px; margin: 0 auto; padding: 0 32px; }
+  .band { width: 100%; }
+
+  .eyebrow {
+    display: inline-block; background: var(--accent-light); color: var(--accent-dark);
+    font-size: 0.78em; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase;
+    padding: 7px 16px; border-radius: 999px; margin-bottom: 22px;
+  }
+
+  .hero { background: var(--bg-cream); padding: 88px 0 64px; text-align: center; }
+  .hero img {
+    width: 100%; max-width: 700px; border-radius: 14px;
+    box-shadow: 0 20px 50px rgba(13,91,120,0.16); margin: 28px auto 44px; display: block;
+  }
+  .hero h1 {
+    font-size: clamp(26px, 3.6vw, 36px); font-weight: 600; line-height: 1.3;
+    margin: 0 0 16px; color: var(--text); letter-spacing: -0.01em;
+  }
+  .hero .sub { font-size: 1em; color: var(--muted); max-width: 520px; margin: 0 auto; font-weight: 400; }
+
+  .content-band { background: #fff; padding: 72px 0; }
+  .intro { font-size: 1.15em; margin: 0 0 12px; color: #3a3a3a; }
+
+  .section { margin: 30px 0; }
+  .section h3 {
+    font-size: 1.05em; font-weight: 600; margin-bottom: 6px; color: var(--accent-dark);
+    border-left: 3px solid var(--accent); padding-left: 14px;
+  }
+  .section p { margin: 6px 0 0 17px; color: var(--text); }
+
+  .quote-band { background: var(--bg-cream); padding: 76px 0 60px; text-align: center; }
+  .quote-band h2 {
+    font-size: clamp(22px, 3vw, 30px); font-weight: 600; line-height: 1.4;
+    max-width: 640px; margin: 0 auto 50px; color: var(--text);
+  }
+  .story-content {
+    max-width: 940px; margin: 0 auto; display: flex; align-items: center;
+    justify-content: center; gap: 56px; padding: 0 32px;
+  }
+  .collage { position: relative; flex: 0 0 420px; height: 340px; }
+  .collage img { position: absolute; object-fit: cover; box-shadow: 0 14px 34px rgba(20,20,20,0.2); border-radius: 10px; }
+  .collage-main { left: 60px; top: 45px; width: 320px; height: 250px; z-index: 1; }
+  .collage-top { left: 0; top: 0; width: 150px; height: 140px; z-index: 2; }
+  .collage-bottom { left: 250px; top: 210px; width: 150px; height: 130px; z-index: 3; }
+
+  @media (max-width: 820px) {
+    .story-content { flex-direction: column; gap: 40px; }
+    .collage { width: 100%; max-width: 380px; }
+  }
+
+  .product-band { background: #fff; padding: 72px 0; }
+  .product-card { text-align: center; }
+  .product-card h2 { font-size: clamp(20px, 2.8vw, 27px); font-weight: 600; margin: 0 0 14px; }
+  .product-card > p { color: var(--muted); font-size: 1em; max-width: 540px; margin: 0 auto 8px; }
+
+  .fit-columns { display: flex; gap: 22px; flex-wrap: wrap; margin: 36px 0; }
+  .fit-box {
+    flex: 1; min-width: 240px; padding: 26px 26px; border-radius: 14px; background: #fff;
+    box-shadow: 0 8px 24px rgba(20,20,20,0.06); text-align: left;
+  }
+  .fit-box h4 {
+    margin: 0 0 14px; font-size: 0.95em; letter-spacing: 0.02em; font-weight: 700;
+    display: flex; align-items: center; gap: 8px;
+  }
+  .fit-yes h4 { color: var(--accent-dark); }
+  .fit-no h4 { color: #a34a3d; }
+  .fit-box ul { margin: 0; padding: 0; list-style: none; }
+  .fit-box li { margin: 9px 0; padding-left: 26px; position: relative; }
+  .fit-yes li:before { content: "\2713"; position: absolute; left: 0; color: var(--accent); font-weight: 700; }
+  .fit-no li:before { content: "\2715"; position: absolute; left: 0; color: #a34a3d; font-weight: 700; }
+
+  .pill-btn {
+    display: inline-block; padding: 13px 34px; background: var(--accent); color: #fff;
+    text-decoration: none; border-radius: 999px; font-size: 0.8em; font-weight: 600;
+    letter-spacing: 1.4px; text-transform: uppercase;
+    box-shadow: none; transition: transform 0.2s, box-shadow 0.2s;
+  }
+  .pill-btn:hover { transform: translateY(-2px); box-shadow: 0 8px 20px rgba(0,0,0,0.2); }
+  .cta-wrap { text-align: center; margin: 36px 0 10px; }
+
+  .disclosure { font-size: 0.82em; color: #999; text-align: center; margin: 22px auto; max-width: 540px; }
+
+  .cta-band {
+    background: var(--accent-dark);
+    padding: 76px 0; color: #fff;
+  }
+  .cta-inner {
+    max-width: 940px; margin: 0 auto; display: flex; align-items: center;
+    gap: 50px; padding: 0 32px; text-align: left;
+  }
+  .cta-text { flex: 1; }
+  .cta-text h2 { font-size: clamp(20px, 2.6vw, 27px); font-weight: 600; line-height: 1.45; max-width: 420px; margin: 0 0 28px; }
+  .cta-image { flex: 0 0 360px; }
+  .cta-image img {
+    width: 100%; height: 260px; object-fit: cover; border-radius: 14px;
+    box-shadow: 0 16px 40px rgba(0,0,0,0.3);
+  }
+  .cta-band .pill-btn { background: var(--accent); color: #fff; }
+  .cta-band .pill-btn:hover { box-shadow: 0 8px 20px rgba(0,0,0,0.3); }
+
+  @media (max-width: 820px) {
+    .cta-inner { flex-direction: column; text-align: center; }
+    .cta-image { width: 100%; max-width: 400px; }
+  }
+
+  .signup-band { background: #fff; padding: 72px 0; }
+  .signup-card {
+    background: var(--bg-cream); border-radius: 20px; border: 1px solid var(--border);
+    padding: 44px; text-align: center; max-width: 460px; margin: 0 auto;
+  }
+  .signup-card p.headline { font-size: 1.1em; font-weight: 600; margin: 0 0 22px; font-family: 'Poppins', sans-serif; }
+  .signup-card input {
+    padding: 13px 18px; width: 100%; max-width: 300px; border: 1px solid var(--border);
+    border-radius: 999px; font-size: 0.95em; margin-bottom: 16px; text-align: center; background: #fff;
+  }
+  .signup-card button {
+    display: block; margin: 0 auto; padding: 13px 34px; background: var(--accent);
+    color: #fff; border: none; border-radius: 999px; font-size: 0.8em; font-weight: 600;
+    letter-spacing: 1.4px; text-transform: uppercase; cursor: pointer;
+  }
+  .signup-card button:hover { box-shadow: 0 8px 20px rgba(0,0,0,0.2); }
+  #signup-message { color: var(--accent-dark); font-weight: 600; }
+
+  footer { text-align: center; padding: 34px 0 56px; color: #b0aca0; font-size: 0.82em; background: #fff; }
+</style>
+</head>
+<body>
+  <div class="band hero">
+    <div class="wrap">
+      <span class="eyebrow">Free guide inside</span>
+      <h1>A Clearer-Mind Routine Starts With the Basics</h1>
+      <p class="sub">Looking for a simple daily way to support focus, memory and mental clarity?</p>
+      <img src="https://images.pexels.com/photos/6005019/pexels-photo-6005019.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="Pineal Guardian">
+    </div>
+  </div>
+
+  <div class="band content-band">
+    <div class="wrap">
+      <p class="intro">Occasional forgetfulness, difficulty concentrating and feeling mentally drained can make everyday tasks more frustrating than they need to be.
+
+A healthy brain-support routine starts with the fundamentals: quality sleep, regular movement, a nutritious diet, stress management — and, for some adults, a carefully selected supplement.</p>
+      <div class="section"><h3>Meet Pineal Guardian</h3><p>Pineal Guardian is a liquid botanical supplement formulated with a blend of plant-based ingredients commonly used in cognitive and general wellness products.
+
+Its formula includes ingredients such as pine bark extract, Ginkgo biloba, Bacopa monnieri, lion's mane, spirulina, chlorella, moringa and other botanicals.
+
+The manufacturer's stated purpose is to support memory function and overall brain health.</p></div><div class="section"><h3>Why people are interested in brain-support supplements</h3><p>A good daily routine is about supporting normal function rather than looking for a miracle overnight solution.
+
+People commonly look for nutritional support around:
+
+**Memory & Recall**
+Support for remembering names, appointments, information and everyday details.
+
+**Focus & Mental Clarity**
+A simple addition to a healthy lifestyle for people who want to support concentration and clear thinking.
+
+**Healthy Aging**
+Supporting brain wellness becomes increasingly important as part of an overall healthy-aging routine.
+
+**Daily Wellness**
+A liquid format can be easier for some people to incorporate into an existing morning routine.</p></div><div class="section"><h3>What's inside the formula?</h3><p>Pineal Guardian's advertised formula combines several botanical ingredients associated with brain and wellness products, including:
+
+• Pine Bark Extract
+• Ginkgo Biloba
+• Bacopa Monnieri
+• Lion's Mane Mushroom
+• Spirulina
+• Chlorella
+• Moringa
+• Neem
+• Tamarind
+
+The product is marketed as a non-stimulant liquid formula intended for adults.</p></div><div class="section"><h3>The important part: expectations</h3><p>This is a dietary supplement, not a treatment for a medical condition.
+
+Individual responses to supplements vary, and a supplement should not replace medical care, prescribed medication, proper nutrition or healthy sleep.</p></div><div class="section"><h3>Is Pineal Guardian worth looking at?</h3><p>For someone already interested in a botanical approach to everyday brain and wellness support, Pineal Guardian may be worth reviewing.
+
+The current vendor offer includes multi-bottle options and a stated 365-day money-back guarantee. The largest package currently displayed on the merchant page is six bottles at $39 per bottle, $234 total, with free shipping and four free bonuses.</p></div><div class="section"><h3>Review the full presentation before ordering</h3><p>Rather than asking you to make a decision from a short sales pitch, the official presentation provides the manufacturer's explanation of the formula, ingredients, usage and current offer.
+
+Review the full product information, current pricing and guarantee before deciding whether it is appropriate for you.</p></div><div class="section"><h3>Current offer shown by the vendor</h3><p>1 Bottle: $69 + $9.99 shipping
+3 Bottles: $59 per bottle, $177 total, free U.S. shipping
+6 Bottles: $39 per bottle, $234 total, free shipping + four bonuses
+Guarantee: 365-day money-back guarantee as displayed on the current sales page.</p></div><div class="section"><h3>A simple way to evaluate it</h3><p>Before purchasing any supplement, ask:
+
+• Do I understand what the product is intended to support?
+• Have I checked the ingredient list?
+• Am I taking medications or do I have a condition that warrants speaking with a healthcare professional first?
+• Am I comfortable with the price and refund terms?
+
+Make an informed decision rather than relying on exaggerated promises.</p></div>
+    </div>
+  </div>
+
+  <div class="band quote-band">
+    <h2>Rather than asking you to make a decision from a short sales pitch, the official presentation provides the manufacturer's explanation of the formula, ingredients, usage and current offer.</h2>
+    <div class="story-content">
+      <div class="collage">
+        <img class="collage-main" src="https://images.pexels.com/photos/31713452/pexels-photo-31713452.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="">
+        <img class="collage-top" src="https://images.pexels.com/photos/9907955/pexels-photo-9907955.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="">
+        <img class="collage-bottom" src="https://images.pexels.com/photos/32831579/pexels-photo-32831579.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="">
+      </div>
+    </div>
+  </div>
+
+  <div class="band product-band">
+    <div class="wrap">
+      <div class="product-card">
+        <span class="eyebrow">Recommended</span>
+        <h2>Pineal Guardian</h2>
+        <p>See the official Pineal Guardian presentation and review the full product information, current pricing and guarantee before deciding whether it is appropriate for you.</p>
+        <div class="fit-columns">
+          <div class="fit-box fit-yes">
+            <h4>Good fit if you</h4>
+            <ul><li>Adults interested in botanical approaches to everyday brain wellness</li><li>People looking for memory and focus support as part of a healthy routine</li><li>Those seeking a liquid supplement format for easier daily use</li><li>Individuals focused on healthy aging and cognitive wellness</li><li>People who want to research ingredients like Ginkgo biloba, Bacopa and lion's mane</li></ul>
+          </div>
+          <div class="fit-box fit-no">
+            <h4>Not for you if</h4>
+            <ul><li>Anyone seeking treatment for a medical condition or disease</li><li>People expecting immediate miracle results</li><li>Those unwilling to consult healthcare professionals when taking medications</li><li>Individuals looking for stimulant-based energy products</li><li>Anyone uncomfortable with dietary supplements</li></ul>
+          </div>
+        </div>
+        <div class="cta-wrap">
+          <a href="https://trustmanjohn94-hash.github.io/funnels/pineal-guardian/go/pineal-guardian-20260827-f73d6/" class="pill-btn">See the full guide &rarr;</a>
+        </div>
+        <p class="disclosure">Disclosure: This page contains an affiliate link.
+        If you purchase through it, I may earn a commission at no additional cost to you.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="band cta-band">
+    <div class="cta-inner">
+      <div class="cta-text">
+        <h2>Ready to take the next step?</h2>
+        <a href="https://trustmanjohn94-hash.github.io/funnels/pineal-guardian/go/pineal-guardian-20260827-f73d6/" class="pill-btn">See the full guide &rarr;</a>
+      </div>
+      <div class="cta-image">
+        <img src="https://images.pexels.com/photos/6005019/pexels-photo-6005019.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="Pineal Guardian">
+      </div>
+    </div>
+  </div>
+
+  <div class="band signup-band">
+    <div class="wrap">
+      <div class="signup-card" id="signup-box">
+        <p class="headline">Get the free The Brain Wellness Checklist: 7 Daily Habits to Support Focus, Memory & Mental Clarity</p>
+        <input type="email" id="signup-email" placeholder="you@example.com" required>
+        <button onclick="submitSignup()">Send it to me</button>
+        <p id="signup-message" style="display:none;">Thanks! Check your inbox shortly.</p>
+      </div>
+    </div>
+  </div>
+
+  <footer>&copy; Pineal Guardian</footer>
+
+  <script>
+  function submitSignup() {
+    const email = document.getElementById("signup-email").value;
+    if (!email || !email.includes("@")) { alert("Please enter a valid email"); return; }
+    fetch("", {
+      method: "POST",
+      mode: "no-cors",
+      body: JSON.stringify({ email: email, product: "Pineal Guardian" })
+    });
+    document.getElementById("signup-message").style.display = "block";
+    document.getElementById("signup-box").querySelector("input").style.display = "none";
+    document.getElementById("signup-box").querySelector("button").style.display = "none";
+  }
+  </script>
+</body>
+</html>
